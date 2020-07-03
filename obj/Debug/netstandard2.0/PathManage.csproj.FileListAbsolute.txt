@@ -1,0 +1,12 @@
+S:\软件保护\源码\EncryptionREBUILD\PathManage\bin\Debug\netstandard2.0\PathManage.deps.json
+S:\软件保护\源码\EncryptionREBUILD\PathManage\bin\Debug\netstandard2.0\PathManage.dll
+S:\软件保护\源码\EncryptionREBUILD\PathManage\bin\Debug\netstandard2.0\PathManage.pdb
+S:\软件保护\源码\EncryptionREBUILD\PathManage\obj\Debug\netstandard2.0\PathManage.csprojAssemblyReference.cache
+S:\软件保护\源码\EncryptionREBUILD\PathManage\obj\Debug\netstandard2.0\PathManage.csproj.CoreCompileInputs.cache
+S:\软件保护\源码\EncryptionREBUILD\PathManage\obj\Debug\netstandard2.0\PathManage.AssemblyInfoInputs.cache
+S:\软件保护\源码\EncryptionREBUILD\PathManage\obj\Debug\netstandard2.0\PathManage.AssemblyInfo.cs
+S:\软件保护\源码\EncryptionREBUILD\PathManage\obj\Debug\netstandard2.0\PathManage.dll
+S:\软件保护\源码\EncryptionREBUILD\PathManage\obj\Debug\netstandard2.0\PathManage.pdb
+S:\软件保护\源码\EncryptionREBUILD\PathManage\bin\Debug\netstandard2.0\CommonBase.dll
+S:\软件保护\源码\EncryptionREBUILD\PathManage\bin\Debug\netstandard2.0\CommonBase.pdb
+S:\软件保护\源码\EncryptionREBUILD\PathManage\obj\Debug\netstandard2.0\PathManage.csproj.CopyComplete
